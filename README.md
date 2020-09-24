@@ -1,2 +1,2 @@
 # autotest
-stepic
+Clone it by read
